@@ -1,4 +1,4 @@
-# Convert spoken lectures into dynamic, animated visuals using NLP.
+# Convert spoken lectures into animated visuals using NLP.
 
 # Live Lecture Visual Generation 2.0
 
