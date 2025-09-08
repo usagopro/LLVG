@@ -2,8 +2,8 @@
 
 # Live Lecture Visual Generation 2.0
 
-AI-powered tool that transforms live lectures into **real-time interactive visuals**,  
-enhancing student engagement through NLP, voice recognition, and dynamic animations.
+- Developed an AI-powered system that converts live lecture speech into real-time animated visuals using Python, NLP, and machine learning, enhancing student engagement and understanding.
+- Implemented speech recognition, text processing, and graphical rendering modules with Tkinter and Canvas, enabling interactive and automated visualization of classroom lectures.
 
 ---
 
